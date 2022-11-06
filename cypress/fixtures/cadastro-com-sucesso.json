@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "thiago@mail.com",
+        "username": "Thiago",
+        "bio": null,
+        "image": null,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRoaWFnb0BtYWlsLmNvbSIsInVzZXJuYW1lIjoidGhpYWdvZmYiLCJpYXQiOjE2NjMxMTY0ODIsImV4cCI6MTY2ODMwMDQ4Mn0.QLuHrTaD-cwKxwwlfL_r1ffRBanzYqR8rEWRep9N1cA"
+    }
+}

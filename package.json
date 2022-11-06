@@ -1,0 +1,23 @@
+{
+  "name": "cypress-e2e-realworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagofolly/cypress-e2e-realworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagofolly/cypress-e2e-realworld/issues"
+  },
+  "homepage": "https://github.com/thiagofolly/cypress-e2e-realworld#readme",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}
